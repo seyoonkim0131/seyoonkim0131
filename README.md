@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseyoonkim0131%2Fhit-counter&count_bg=%23FDCB6E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Seyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyoonkim0131)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **seyoonkim0131/seyoonkim0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
